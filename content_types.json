@@ -1,6 +1,10 @@
 {
 	"content_types" : [
 		{
+			"name" : "Image",
+			"path" : "data\\images"			
+		},
+		{
 			"name" : "Author",
 			"path" : "data\\authors"
 		},
@@ -15,10 +19,6 @@
 		{
 			"name" : "Homepage",
 			"path" : "data\\homepages"			
-		},
-		{
-			"name" : "Image",
-			"path" : "data\\images"			
 		},
 		{
 			"name" : "Location",
