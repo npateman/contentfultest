@@ -1,0 +1,52 @@
+{
+	"content_types" : [
+		{
+			"name" : "Author",
+			"path" : "data\authors"
+		},
+		{
+			"name" : "Category",
+			"path" : "data\categories"			
+		},
+		{
+			"name" : "Event",
+			"path" : "data\events"			
+		},
+		{
+			"name" : "Homepage",
+			"path" : "data\homepages"			
+		},
+		{
+			"name" : "Image",
+			"path" : "data\images"			
+		},
+		{
+			"name" : "Location",
+			"path" : "data\locations"			
+		},
+		{
+			"name" : "Management-BOD",
+			"path" : "data\management-bods"			
+		},
+		{
+			"name" : "Pages",
+			"path" : "data\pages"			
+		},
+		{
+			"name" : "Photo Gallery",
+			"path" : "data\photo-galleries"			
+		},
+		{
+			"name" : "Post",
+			"path" : "data\posts"			
+		},
+		{
+			"name" : "Products",
+			"path" : "data\products"			
+		},
+		{
+			"name" : "Publication",
+			"path" : "data\publications"			
+		}
+	]
+}
