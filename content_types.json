@@ -2,51 +2,51 @@
 	"content_types" : [
 		{
 			"name" : "Author",
-			"path" : "data\authors"
+			"path" : "data\\authors"
 		},
 		{
 			"name" : "Category",
-			"path" : "data\categories"			
+			"path" : "data\\categories"			
 		},
 		{
 			"name" : "Event",
-			"path" : "data\events"			
+			"path" : "data\\events"			
 		},
 		{
 			"name" : "Homepage",
-			"path" : "data\homepages"			
+			"path" : "data\\homepages"			
 		},
 		{
 			"name" : "Image",
-			"path" : "data\images"			
+			"path" : "data\\images"			
 		},
 		{
 			"name" : "Location",
-			"path" : "data\locations"			
+			"path" : "data\\locations"			
 		},
 		{
 			"name" : "Management-BOD",
-			"path" : "data\management-bods"			
+			"path" : "data\\management-bods"			
 		},
 		{
 			"name" : "Pages",
-			"path" : "data\pages"			
+			"path" : "data\\pages"			
 		},
 		{
 			"name" : "Photo Gallery",
-			"path" : "data\photo-galleries"			
+			"path" : "data\\photo-galleries"			
 		},
 		{
 			"name" : "Post",
-			"path" : "data\posts"			
+			"path" : "data\\posts"			
 		},
 		{
 			"name" : "Products",
-			"path" : "data\products"			
+			"path" : "data\\products"			
 		},
 		{
 			"name" : "Publication",
-			"path" : "data\publications"			
+			"path" : "data\\publications"			
 		}
 	]
 }
