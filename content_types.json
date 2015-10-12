@@ -53,7 +53,7 @@
 		{
 			"name" : "Pages",
 			"path" : "data\\pages",
-			"enabled" : false			
+			"enabled" : true			
 		}
 	]
 }
