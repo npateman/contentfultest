@@ -1,5 +1,5 @@
 ---
-content_type: Chunk
+content_type: Chunks
 title: Title of test chunk 1 goes here
 marketing_text: Marketing text goes in here
 ---
