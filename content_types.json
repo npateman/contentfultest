@@ -21,10 +21,6 @@
 			"path" : "data\\homepages"			
 		},
 		{
-			"name" : "Location",
-			"path" : "data\\locations"			
-		},
-		{
 			"name" : "Management-BOD",
 			"path" : "data\\management-bods"			
 		},
