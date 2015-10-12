@@ -1,6 +1,6 @@
 ---
 content_type: Category
-title: Test Category
+title: Testing
 icon: \data\assets\images\orange\orange.jpg
 ---
 
