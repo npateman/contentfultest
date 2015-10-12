@@ -25,16 +25,8 @@
 			"path" : "data\\management-bods"			
 		},
 		{
-			"name" : "Pages",
-			"path" : "data\\pages"			
-		},
-		{
 			"name" : "Photo Gallery",
 			"path" : "data\\photo-galleries"			
-		},
-		{
-			"name" : "Post",
-			"path" : "data\\posts"			
 		},
 		{
 			"name" : "Product",
@@ -43,6 +35,14 @@
 		{
 			"name" : "Publication",
 			"path" : "data\\publications"			
+		},
+		{
+			"name" : "Post",
+			"path" : "data\\posts"			
+		},
+		{
+			"name" : "Pages",
+			"path" : "data\\pages"			
 		}
 	]
 }
