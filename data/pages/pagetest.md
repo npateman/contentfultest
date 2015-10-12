@@ -13,6 +13,7 @@ open_graph_image: http://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg
 open_graph_page_url: http://www.somesite.com/somedir/anotherdir/pageurl
 open_graph_description: This is just a simple test page
 open_graph_facebook_admins: brian.spector1
+open_graph_type: article
 twitter_card: summary
 twitter_url: http://www.somesite.com/somedir/anotherdir/pageurl
 twitter_title: My Test Page
