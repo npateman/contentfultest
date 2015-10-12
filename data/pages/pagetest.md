@@ -20,9 +20,9 @@ twitter_description: This is just a simple test page
 twitter_image: \data\assets\images\orange\orange.jpg
 twitter_site: @miracl
 reference:
-  - \data\authors\lewis-carroll.md
-  - \data\chuns\testchunk1.md
-  - \data\chuns\testchunk2.md
+ - \data\authors\lewis-carroll.md
+ - \data\chuns\testchunk1.md
+ - \data\chuns\testchunk2.md
 ---
 
 Page instructions go in here
