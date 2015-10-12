@@ -43,7 +43,7 @@
 		{
 			"name" : "Publication",
 			"path" : "data\\publications",
-			"enabled" : false			
+			"enabled" : true			
 		},
 		{
 			"name" : "Post",
