@@ -38,7 +38,7 @@
 		{
 			"name" : "Product",
 			"path" : "data\\products",
-			"enabled" : false			
+			"enabled" : true			
 		},
 		{
 			"name" : "Publication",
