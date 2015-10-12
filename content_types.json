@@ -2,47 +2,58 @@
 	"content_types" : [
 		{
 			"name" : "Author",
-			"path" : "data\\authors"
+			"path" : "data\\authors",
+			"enabled" : true
 		},
 		{
 			"name" : "Category",
-			"path" : "data\\categories"			
+			"path" : "data\\categories",
+			"enabled" : true			
 		},
 		{
 			"name" : "Chunks",
-			"path" : "data\\chunks"			
+			"path" : "data\\chunks",
+			"enabled" : true			
 		},
 		{
 			"name" : "Event",
-			"path" : "data\\events"			
+			"path" : "data\\events",
+			"enabled" : true			
 		},
 		{
 			"name" : "Homepage",
-			"path" : "data\\homepages"			
+			"path" : "data\\homepages",
+			"enabled" : true			
 		},
 		{
 			"name" : "Management-BOD",
-			"path" : "data\\management-bods"			
+			"path" : "data\\management-bods",
+			"enabled" : true			
 		},
 		{
 			"name" : "Photo Gallery",
-			"path" : "data\\photo-galleries"			
+			"path" : "data\\photo-galleries",
+			"enabled" : false			
 		},
 		{
 			"name" : "Product",
-			"path" : "data\\products"			
+			"path" : "data\\products",
+			"enabled" : false			
 		},
 		{
 			"name" : "Publication",
-			"path" : "data\\publications"			
+			"path" : "data\\publications",
+			"enabled" : false			
 		},
 		{
 			"name" : "Post",
-			"path" : "data\\posts"			
+			"path" : "data\\posts",
+			"enabled" : false			
 		},
 		{
 			"name" : "Pages",
-			"path" : "data\\pages"			
+			"path" : "data\\pages",
+			"enabled" : false			
 		}
 	]
 }
