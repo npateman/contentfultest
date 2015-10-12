@@ -1,16 +1,16 @@
 {
 	"content_types" : [
 		{
-			"name" : "Image",
-			"path" : "data\\images"			
-		},
-		{
 			"name" : "Author",
 			"path" : "data\\authors"
 		},
 		{
 			"name" : "Category",
 			"path" : "data\\categories"			
+		},
+		{
+			"name" : "Chunks",
+			"path" : "data\\chunks"			
 		},
 		{
 			"name" : "Event",
