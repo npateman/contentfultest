@@ -33,7 +33,7 @@
 		{
 			"name" : "Photo Gallery",
 			"path" : "data\\photo-galleries",
-			"enabled" : false			
+			"enabled" : true			
 		},
 		{
 			"name" : "Product",
@@ -48,7 +48,7 @@
 		{
 			"name" : "Post",
 			"path" : "data\\posts",
-			"enabled" : false			
+			"enabled" : true			
 		},
 		{
 			"name" : "Pages",
