@@ -13,6 +13,7 @@ tags:
  - misc
 latitude: 51.526347
 longitude: -0.079855
+date: 2015-10-13
 instructions: Instructions go here
 ---
 
