@@ -48,7 +48,7 @@
 		{
 			"name" : "Post",
 			"path" : "data\\posts",
-			"enabled" : true			
+			"enabled" : false			
 		},
 		{
 			"name" : "Pages",
