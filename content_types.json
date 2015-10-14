@@ -1,4 +1,7 @@
 {
+	"options": {
+		"default_locale" : "en-US"
+	},
 	"content_types" : [
 		{
 			"name" : "Author",
