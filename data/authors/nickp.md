@@ -6,4 +6,4 @@ profile_photo: \data\assets\images\apple\apple.jpg
 id: 76730f4f36a737b7d70eceab27916afde4c38455526ebbfb6cc203c6802b974a
 ---
 
-This is Nicks rather short bio.
+One day there was a tree, and an owl, in the rain.  There was also a man, stuck down hole, in the rain, with an owl.
