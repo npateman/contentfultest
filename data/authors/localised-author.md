@@ -1,8 +1,6 @@
 ---
 content_type: Author
-name:
-  en-US: Robert William "Bob" Hoskins
-  bg-BG: Robertus Dimitar Hoskinoff
+name: Robert William "Bob" Hoskins
 twitter_handle: bobhoskins
 profile_photo: \data\assets\images\profile-photos\bob-hoskins.jpg
 id: 843d747c9b38643ca3c3b9005ea835605930fee55821a799f76a1b253183937c
