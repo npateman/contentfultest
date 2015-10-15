@@ -1,7 +1,7 @@
 ---
 content_type: Category
 title: Tech
-icon: \data\assets\images\icons\Device-Laptop_32.jpg
+icon: \data\assets\images\icons\Device-Laptop_32.png
 ---
 
 Technical, gadgetry and wot-not.
